@@ -1,5 +1,5 @@
 function setup() {
-
+let x = 1;
 }
 
 
